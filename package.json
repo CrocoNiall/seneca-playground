@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "seneca": "^3.3.0"
+    "express": "^4.15.3",
+    "seneca": "^3.3.0",
+    "seneca-web": "^2.0.0"
   }
 }
